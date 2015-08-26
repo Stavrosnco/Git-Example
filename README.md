@@ -1,4 +1,4 @@
 # Git-Example
-Throwaway for tutorial
+Throwaway for experimental-test repo
 
 Making changes to see what happens
